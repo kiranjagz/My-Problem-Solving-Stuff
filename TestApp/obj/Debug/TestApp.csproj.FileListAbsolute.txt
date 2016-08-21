@@ -1,0 +1,12 @@
+c:\users\kiran\documents\visual studio 2013\Projects\TestApp\TestApp\bin\Debug\TestApp.exe.config
+c:\users\kiran\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+c:\users\kiran\documents\visual studio 2013\Projects\TestApp\TestApp\bin\Debug\TestApp.exe
+c:\users\kiran\documents\visual studio 2013\Projects\TestApp\TestApp\bin\Debug\TestApp.pdb
+c:\users\kiran\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Debug\TestApp.exe
+c:\users\kiran\documents\visual studio 2013\Projects\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\GitHub Visual Studio\My-Problem-Solving-Stuff\TestApp\bin\Debug\TestApp.exe.config
+C:\GitHub Visual Studio\My-Problem-Solving-Stuff\TestApp\obj\Debug\TestApp.exe
+C:\GitHub Visual Studio\My-Problem-Solving-Stuff\TestApp\obj\Debug\TestApp.pdb
+C:\GitHub Visual Studio\My-Problem-Solving-Stuff\TestApp\bin\Debug\TestApp.exe
+C:\GitHub Visual Studio\My-Problem-Solving-Stuff\TestApp\bin\Debug\TestApp.pdb
+C:\GitHub Visual Studio\My-Problem-Solving-Stuff\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
