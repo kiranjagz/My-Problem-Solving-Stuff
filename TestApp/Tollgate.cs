@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace TestApp
 {
+    /// <summary>
+    /// Cars enter a tollgate, as in a first in first out concept
+    /// </summary>
     public class Tollgate
     {
-        public List<string> Toll = new List<string>();
         public Dictionary<int, string> tollCars = new Dictionary<int, string>();
         int countEnter = 0;
         int CountExit = 0;
@@ -33,18 +35,5 @@ namespace TestApp
             else
                 return null;
         }
-
-
-
-        //if (car == null)
-        //{
-        //    return null;
-        //}
-        //else
-        //{           
-        // CountExit++;
-        // return car;
-        //}
-
     }
 }

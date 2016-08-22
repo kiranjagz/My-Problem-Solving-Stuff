@@ -10,3 +10,9 @@ C:\GitHub Visual Studio\My-Problem-Solving-Stuff\TestApp\obj\Debug\TestApp.pdb
 C:\GitHub Visual Studio\My-Problem-Solving-Stuff\TestApp\bin\Debug\TestApp.exe
 C:\GitHub Visual Studio\My-Problem-Solving-Stuff\TestApp\bin\Debug\TestApp.pdb
 C:\GitHub Visual Studio\My-Problem-Solving-Stuff\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\GitHub Visual Studio\My-Problem-Solving-Stuff\My-Problem-Solving-Stuff\TestApp\bin\Debug\TestApp.exe.config
+C:\GitHub Visual Studio\My-Problem-Solving-Stuff\My-Problem-Solving-Stuff\TestApp\obj\Debug\TestApp.exe
+C:\GitHub Visual Studio\My-Problem-Solving-Stuff\My-Problem-Solving-Stuff\TestApp\obj\Debug\TestApp.pdb
+C:\GitHub Visual Studio\My-Problem-Solving-Stuff\My-Problem-Solving-Stuff\TestApp\bin\Debug\TestApp.exe
+C:\GitHub Visual Studio\My-Problem-Solving-Stuff\My-Problem-Solving-Stuff\TestApp\bin\Debug\TestApp.pdb
+C:\GitHub Visual Studio\My-Problem-Solving-Stuff\My-Problem-Solving-Stuff\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
