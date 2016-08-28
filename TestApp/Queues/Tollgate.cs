@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestApp
+namespace TestApp.Queues
 {
     /// <summary>
     /// Cars enter a tollgate, as in a first in first out concept

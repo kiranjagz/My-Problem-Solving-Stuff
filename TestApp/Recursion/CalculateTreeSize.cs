@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestApp
+namespace TestApp.Recursion
 {
-    public class CalculateTree
+    public class CalculateTreeSize
     {
         public class TreeNode
         {

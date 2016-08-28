@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static TestApp.BinarySearchTree;
-using static TestApp.CalculateTree;
 
 namespace TestApp
 {
@@ -76,11 +74,28 @@ namespace TestApp
             #endregion
 
             #region eatcandiestest
-            var eaten = CountCandies.calculateEaten(3, 2);
-            Console.WriteLine(eaten.ToString());
+            //var eaten = CountCandies.calculateEaten(3, 2);
+            //Console.WriteLine(eaten.ToString());
             #endregion
 
+            string wordInReverse = ".flesym esrever ot gniog ma I";
+            var wordInForward = TestApp.StringManipulation.ReverseSentance.Reverse(wordInReverse);
+
+            Console.WriteLine(wordInForward);
+
             Console.ReadLine();
+        }
+
+        static string reverse(string word)
+        {
+            string[] words = word.Split(' ');
+            Array.Reverse(words);
+            return string.Join(" ", words);
+        }
+
+        static bool isFibo(int valueToCheck, int previousValue, int currentValue)
+        {
+            return currentValue > valueToCheck ? false : valueToCheck == currentValue ? true : isFibo(valueToCheck, previousValue - currentValue, currentValue);
         }
     }
 }

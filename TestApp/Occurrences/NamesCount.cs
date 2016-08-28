@@ -4,11 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestApp
+namespace TestApp.Occurrences
 {
-    using System;
-    using System.Collections.Generic;
-
     public class NamesCount
     {
         private int Count;
@@ -18,11 +15,7 @@ namespace TestApp
         public void AddName(string name)
         {
             //Counts.TryGetValue(name, out nameCount);
-            Counts.Add(nameCount,name);
-
-            //if (nameCount == 0)
-            //    Counts[name] = nameCount;
-
+            Counts.Add(nameCount, name);
             nameCount++;
             Count++;
         }

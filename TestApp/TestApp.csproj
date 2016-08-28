@@ -41,18 +41,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Anagrams.cs" />
-    <Compile Include="BinarySearchTree.cs" />
-    <Compile Include="CalculateTree.cs" />
-    <Compile Include="CountCandies.cs" />
-    <Compile Include="FrogSteps.cs" />
-    <Compile Include="LongestRunIndex.cs" />
-    <Compile Include="NamesCount.cs" />
-    <Compile Include="Palindrome.cs" />
+    <Compile Include="StringManipulation\Anagrams.cs" />
+    <Compile Include="Recursion\BinarySearchTree.cs" />
+    <Compile Include="Recursion\CalculateTreeSize.cs" />
+    <Compile Include="Maths\CountCandies.cs" />
+    <Compile Include="Recursion\FrogSteps.cs" />
+    <Compile Include="Maths\LongestRunIndex.cs" />
+    <Compile Include="Occurrences\NamesCount.cs" />
+    <Compile Include="StringManipulation\Palindrome.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tollgate.cs" />
-    <Compile Include="TwoSum.cs" />
+    <Compile Include="Queues\Tollgate.cs" />
+    <Compile Include="Maths\TwoSum.cs" />
+    <Compile Include="StringManipulation\ReverseSentance.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
