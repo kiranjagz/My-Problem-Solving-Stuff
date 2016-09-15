@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Maths\CombinationSum.cs" />
+    <Compile Include="Maths\IsFibo.cs" />
     <Compile Include="StringManipulation\Anagrams.cs" />
     <Compile Include="Recursion\BinarySearchTree.cs" />
     <Compile Include="Recursion\CalculateTreeSize.cs" />
@@ -48,6 +50,7 @@
     <Compile Include="Recursion\FrogSteps.cs" />
     <Compile Include="Maths\LongestRunIndex.cs" />
     <Compile Include="Occurrences\NamesCount.cs" />
+    <Compile Include="StringManipulation\ListsandArrays.cs" />
     <Compile Include="StringManipulation\Palindrome.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

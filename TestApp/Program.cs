@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TestApp.StringManipulation;
 
 namespace TestApp
 {
@@ -78,24 +79,25 @@ namespace TestApp
             //Console.WriteLine(eaten.ToString());
             #endregion
 
-            string wordInReverse = ".flesym esrever ot gniog ma I";
-            var wordInForward = TestApp.StringManipulation.ReverseSentance.Reverse(wordInReverse);
+            #region sentanceinreversetest
+            //string wordInReverse = ".flesym esrever ot gniog ma I";
+            //var wordInForward = TestApp.StringManipulation.ReverseSentance.Reverse(wordInReverse);
+            #endregion
 
-            Console.WriteLine(wordInForward);
+            #region arraysandliststest
+            var result = new ListsandArrays().FindbyArrayId(99, "jeff");
+            Console.WriteLine(result.ToString());
+
+            var result2 = new ListsandArrays().InsertIntoSpecificPosition(1, "skywalker");
+            for(int i = 0;i < result2.Count;i++)
+            {
+                Console.WriteLine("Position: " + i.ToString() + " Value: " + result2[i]);
+            }
+
+
+            #endregion
 
             Console.ReadLine();
-        }
-
-        static string reverse(string word)
-        {
-            string[] words = word.Split(' ');
-            Array.Reverse(words);
-            return string.Join(" ", words);
-        }
-
-        static bool isFibo(int valueToCheck, int previousValue, int currentValue)
-        {
-            return currentValue > valueToCheck ? false : valueToCheck == currentValue ? true : isFibo(valueToCheck, previousValue - currentValue, currentValue);
         }
     }
 }
