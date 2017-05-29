@@ -40,15 +40,5 @@ namespace TestApp.Recursion
                 
             }
         }
-
-        //public static void Main(string[] args)
-        //{
-        //    TreeNode leaf1 = new TreeNode(null, null);
-        //    TreeNode leaf2 = new TreeNode(null, null);
-        //    TreeNode node = new TreeNode(leaf1, null);
-        //    TreeNode root = new TreeNode(node, leaf2);
-        //    Console.WriteLine(TreeHeight.CalculateHeight(root));
-        //    Console.ReadLine();
-        //}
     }
 }
