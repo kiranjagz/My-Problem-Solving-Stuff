@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Maths\CombinationSum.cs" />
     <Compile Include="Maths\IsFibo.cs" />
+    <Compile Include="Maths\PascalTriangle.cs" />
     <Compile Include="StringManipulation\Anagrams.cs" />
     <Compile Include="Recursion\BinarySearchTree.cs" />
     <Compile Include="Recursion\CalculateTreeSize.cs" />
