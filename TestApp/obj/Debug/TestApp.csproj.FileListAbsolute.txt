@@ -1,8 +1,0 @@
-C:\github\My-Problem-Solving-Stuff\TestApp\bin\Debug\TestApp.exe.config
-C:\github\My-Problem-Solving-Stuff\TestApp\bin\Debug\TestApp.exe
-C:\github\My-Problem-Solving-Stuff\TestApp\bin\Debug\TestApp.pdb
-C:\github\My-Problem-Solving-Stuff\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
-C:\github\My-Problem-Solving-Stuff\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
-C:\github\My-Problem-Solving-Stuff\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
-C:\github\My-Problem-Solving-Stuff\TestApp\obj\Debug\TestApp.exe
-C:\github\My-Problem-Solving-Stuff\TestApp\obj\Debug\TestApp.pdb
