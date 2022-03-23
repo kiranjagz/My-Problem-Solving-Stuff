@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{295C9A48-9A42-4A32-8789-A747928BF047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFileApp", "ReadFileApp\ReadFileApp.csproj", "{72B2605C-E2D6-44DA-9E1E-170E59A6E0B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractionApp", "AbstractionApp\AbstractionApp.csproj", "{CECC7DE3-917D-40A4-92B5-73A6820B51B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +19,19 @@ Global
 		{295C9A48-9A42-4A32-8789-A747928BF047}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{295C9A48-9A42-4A32-8789-A747928BF047}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{295C9A48-9A42-4A32-8789-A747928BF047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B2605C-E2D6-44DA-9E1E-170E59A6E0B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B2605C-E2D6-44DA-9E1E-170E59A6E0B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B2605C-E2D6-44DA-9E1E-170E59A6E0B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B2605C-E2D6-44DA-9E1E-170E59A6E0B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CECC7DE3-917D-40A4-92B5-73A6820B51B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECC7DE3-917D-40A4-92B5-73A6820B51B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECC7DE3-917D-40A4-92B5-73A6820B51B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECC7DE3-917D-40A4-92B5-73A6820B51B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {443B7C8B-A109-452A-B570-3600AF795DC6}
 	EndGlobalSection
 EndGlobal
