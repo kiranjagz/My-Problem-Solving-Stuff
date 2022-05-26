@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Algos\CalculateTwoSumNumbersGivenInAString.cs" />
     <Compile Include="Maths\CombinationSum.cs" />
     <Compile Include="Maths\IsFibo.cs" />
     <Compile Include="Maths\PascalTriangle.cs" />

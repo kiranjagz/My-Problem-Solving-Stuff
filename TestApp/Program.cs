@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TestApp.Algos;
 using TestApp.StringManipulation;
 
 namespace TestApp
@@ -85,17 +86,18 @@ namespace TestApp
             #endregion
 
             #region arraysandliststest
-            var result = new ListsandArrays().FindbyArrayId(99, "jeff");
-            Console.WriteLine(result.ToString());
+            //var result = new ListsandArrays().FindbyArrayId(99, "jeff");
+            //Console.WriteLine(result.ToString());
 
-            var result2 = new ListsandArrays().InsertIntoSpecificPosition(1, "skywalker");
-            for(int i = 0;i < result2.Count;i++)
-            {
-                Console.WriteLine("Position: " + i.ToString() + " Value: " + result2[i]);
-            }
-
-
+            //var result2 = new ListsandArrays().InsertIntoSpecificPosition(1, "skywalker");
+            //for(int i = 0;i < result2.Count;i++)
+            //{
+            //    Console.WriteLine("Position: " + i.ToString() + " Value: " + result2[i]);
+            //}
             #endregion
+
+            var sumNumbers = CalculateTwoSumNumbersGivenInAString.SumTwoNumbersInAString("34");
+            Console.WriteLine($"{sumNumbers}");
 
             Console.ReadLine();
         }
